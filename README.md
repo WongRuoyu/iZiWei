@@ -1,2 +1,2 @@
 # iZiWei
-A simple scala implement of 紫微斗数
+A simple scala implemention of 紫微斗数
